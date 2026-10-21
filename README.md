@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Shubhangi086/leetcode-solution/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/Shubhangi086/leetcode-solution/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhangi086/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Shubhangi086/leetcode-solution/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Shubhangi086/leetcode-solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
