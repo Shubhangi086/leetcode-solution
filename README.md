@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubhangi086/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0279-perfect-squares](https://github.com/Shubhangi086/leetcode-solution/tree/master/0279-perfect-squares) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Shubhangi086/leetcode-solution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 ## Breadth-First Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubhangi086/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Shubhangi086/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Shubhangi086/leetcode-solution/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhangi086/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhangi086/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Shubhangi086/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Shubhangi086/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shubhangi086/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhangi086/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shubhangi086/leetcode-solution/tree/master/0056-merge-intervals) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubhangi086/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
