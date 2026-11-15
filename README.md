@@ -137,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Shubhangi086/leetcode-solution/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shubhangi086/leetcode-solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shubhangi086/leetcode-solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
