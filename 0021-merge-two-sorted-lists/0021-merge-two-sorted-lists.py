@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1: ListNode | None, list2: ListNode | None) -> ListNode | None:
-        head= ListNode()
+        head= ListNode() #dummy node creation 
         curr=head
         while list1 and list2:
             if list1.val < list2.val:
