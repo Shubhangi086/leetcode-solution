@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Shubhangi086/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhangi086/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhangi086/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhangi086/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Shubhangi086/leetcode-solution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/Shubhangi086/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Shubhangi086/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Shubhangi086/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhangi086/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhangi086/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubhangi086/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -65,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/Shubhangi086/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Shubhangi086/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Shubhangi086/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhangi086/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhangi086/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhangi086/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhangi086/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhangi086/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Shubhangi086/leetcode-solution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 ## Bit Manipulation
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhangi086/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shubhangi086/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shubhangi086/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Shubhangi086/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhangi086/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Shubhangi086/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 ## String
