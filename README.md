@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhangi086/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhangi086/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhangi086/leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/Shubhangi086/leetcode-solution/tree/master/0682-baseball-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Shubhangi086/leetcode-solution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/Shubhangi086/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -167,8 +168,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhangi086/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Shubhangi086/leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Shubhangi086/leetcode-solution/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhangi086/leetcode-solution/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shubhangi086/leetcode-solution/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
