@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Shubhangi086/leetcode-solution/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/Shubhangi086/leetcode-solution/tree/master/0279-perfect-squares) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Shubhangi086/leetcode-solution/tree/master/0902-numbers-at-most-n-given-digit-set) |
 ## Dynamic Programming
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Shubhangi086/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shubhangi086/leetcode-solution/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Shubhangi086/leetcode-solution/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Shubhangi086/leetcode-solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shubhangi086/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubhangi086/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Shubhangi086/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
