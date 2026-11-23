@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Shubhangi086/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhangi086/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Shubhangi086/leetcode-solution/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhangi086/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Shubhangi086/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Shubhangi086/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Shubhangi086/leetcode-solution/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubhangi086/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
